@@ -1,6 +1,3 @@
-def reusable_function(x, y):
-    return x + y
-
 def main():
     # importing required modules
     import pandas as pd
